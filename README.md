@@ -38,9 +38,4 @@ Analyzed hub efficiency and capacity gaps
 Evaluated vehicle usage and maintenance distribution
 Improved visibility into logistics operations
 
-## Dashboard Preview
 
-![SwiftRoute Logistic Dashboard](image1.png)
-![Drivers Dashboard](image2.png)
-![Hubs Overview Dashboard](image3.png)
-![Vehicles Overview Dashboard](image4.png)
