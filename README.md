@@ -4,17 +4,21 @@
 This project presents a comprehensive Logistics Analytics Dashboard built using Power BI. It helps analyze operational performance across orders, drivers, hubs, and vehicles.
 
 📊 Dashboards Included
+
 1️⃣ SwiftRoute Logistic Dashboard
 Total Orders, On-Time Delivery Rate, CSAT, Avg Delivery Time
 High-level overview of logistics performance
+
 2️⃣ Drivers Overview
 Experience vs Ratings analysis
 Drivers with highest delays
 Individual driver performance tracking
+
 3️⃣ Hubs Overview
 Order processing vs capacity
 Hub performance ranking
 Processing time analysis
+
 4️⃣ Vehicles Overview
 Active vs maintenance vehicles
 Orders by vehicle type
