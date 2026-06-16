@@ -26,8 +26,11 @@ Vehicle utilization insights
 
 📈 Key Metrics
 Total Orders: 1169+
+
 On-Time Delivery: 80.8%
+
 CSAT: 89.9%
+
 Avg Delivery Time: 36.38 hrs
 
 🛠 Tools & Technologies
